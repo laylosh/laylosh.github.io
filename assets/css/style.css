@@ -294,9 +294,10 @@ top: var(--header-height);
 }
 .home__greeting, .home__profession{
   display: block
-  font-weight: var(--font-bold);
+  font-weight:var(--font-bold);
 }
-.home__greeting{
+.home__greeting
+{
   font-size: .813rem;
 }
 .home__profession{
